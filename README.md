@@ -12,6 +12,7 @@ example.xlsx
 
     用Linux思维,穿梭时间,use linux thinking way to coss time.
     linux time line
+    computer read line
     |
     |
     |----------2019.05.05 12:52 PM
