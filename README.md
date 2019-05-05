@@ -29,7 +29,6 @@ example.xlsx
     |
     |
     normal timeline
-
-   　　　　中国皇子肆意妄为,我无能为力
+                        中国皇子肆意妄为,我无能为力
        
                                                                             余鹏
